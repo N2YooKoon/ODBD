@@ -29,6 +29,9 @@
             line-height: 1.5;
             cursor: pointer;
             box-sizing: border-box;
+            margin: 30px;
+            margin-top: 50px;
+            font-weight: bold;
         }
     
         .box2 {
